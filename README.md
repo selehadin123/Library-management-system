@@ -11,7 +11,7 @@ The main goal of this project is to reduce manual paperwork, save time, improve 
 ### 1. SELEHADIN ENDRIS
 - **Student ID:** WOUR/0585/17
 - **GitHub Username:** [@selehadin123](https://github.com/selehadin123)
-- 
+
 - ### 2. BITANIYA AFEWORK
 - **Student ID:** WOUR/0171/17
 - **GitHub Username:** [@BitaniyaAfework](https://github.com/BitaniyaAfework)
