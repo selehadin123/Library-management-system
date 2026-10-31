@@ -14,7 +14,7 @@ The main goal of this project is to reduce manual paperwork, save time, improve 
 - 
 - ### 2. BITANIYA AFEWORK
 - **Student ID:** WOUR/0171/17
-- **GitHub Username:** [@BitaniaAfework](https://github.com/BitaniaAfework)
+- **GitHub Username:** [@BitanyaAfework](https://github.com/BitanyaAfework)
 
 ### 3. TSION DANIEL
 - **Student ID:** WOUR/0657/17
